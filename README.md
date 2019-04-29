@@ -15,7 +15,7 @@
 </repositories>
 	
 <dependency>
-	<groupId>org.github.prettymuchbryce</groupId>
+	<groupId>com.github.prettymuchbryce</groupId>
 	<artifactId>abidecoder</artifactId>
 	<version>master-SNAPSHOT</version>
 </dependency>
